@@ -95,8 +95,8 @@ Current progress focuses on **data understanding and feature engineering**:
 
 ## GitHub Repository
 
-Add your repository link here: https://github.com/majesty594/Retail_Demand_Forecasting/
+Add your repository link here:
 
 ```
-https://github.com/yourusername/retail-demand-forecasting
+[https://github.com/yourusername/retail-demand-forecasting](https://github.com/majesty594/Retail_Demand_Forecasting/)
 ```
